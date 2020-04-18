@@ -1,0 +1,8 @@
+body{
+	background: linear-gradient(to right, gray, white, silver);
+	font-family:font-family: 'Baloo Bhaina 2', cursive;
+	}
+
+p{
+	padding:0 100px ;
+}
